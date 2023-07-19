@@ -22,13 +22,15 @@ nav {
   box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
   margin-right: -60px;
 }
+.btn-class{
+  width: 100px;
+  height: 100px;
+  
+}
 .btn {
-  font-size: 30px;
-  margin-left: 30px;
-  border-radius: 8px;
-  background: rgba(11, 2, 35, 0.1);
-  padding: 10px;
-  border: none;
+  background-color:rgba(11, 2, 35, 0.10);
+  padding: 10px 50px ;
+  border-radius: 5px;
 }
 .btn img {
   width: 20px;
@@ -52,7 +54,7 @@ li {
 .logo-container img {
   width: 60px;
   height: 30px;
-  margin-left: -25px;
+  margin-left: 40px;
   /* object-fit: cover; */
 }
 .logo-container p {
@@ -62,6 +64,9 @@ li {
 }
 .g-word {
   color: #ff42a5;
+}
+.nav-container{
+  padding: 25px;
 }
 .nav-item-container {
   width: 50%;
@@ -119,7 +124,8 @@ li {
   width: 50%;
 }
 .banner-pic img {
-  width: 130%;
+  width: 113%;
+  margin-left: 90px;
 }
 /* online section */
 .online-tile {
