@@ -54,7 +54,7 @@ li {
 .logo-container img {
   width: 60px;
   height: 30px;
-  margin-left: 40px;
+  margin-left: -90px;
   /* object-fit: cover; */
 }
 .logo-container p {
@@ -70,7 +70,8 @@ li {
 }
 .nav-item-container {
   width: 50%;
-  margin-right: 10px;
+ 
+  margin-left: 190px;
 }
 .nav-item-container li a {
   font-size: 20px;
@@ -89,7 +90,7 @@ li {
 }
 .banner-text {
   width: 50%;
-  margin-left: -500px;
+  margin-left: -630px;
   font-size: 48px;
 }
 .banner-description {
@@ -125,7 +126,7 @@ li {
 }
 .banner-pic img {
   width: 113%;
-  margin-left: 90px;
+  margin-left: 180px;
 }
 /* online section */
 .online-tile {
